@@ -1,0 +1,4 @@
+1 - Com a classe ProcessoHome sem jboss-*.xml
+2 - Com a classe ProcessoHome com jboss-*.xml
+3 - Com a classe ProcessoHome com o nome processoHome2 e com jboss-*.xml
+4 - Com a classe ProcessoHome com o nome processoHome2 e sem jboss-*.xml

@@ -1,0 +1,9 @@
+**.svn/
+**target/
+.classpath
+.checkstyle
+.externalToolBuilders/
+.metadata/
+.project
+.settings/
+.tern-project
