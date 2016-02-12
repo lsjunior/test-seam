@@ -1,4 +1,14 @@
 1 - Com a classe ProcessoHome sem jboss-*.xml
 2 - Com a classe ProcessoHome com jboss-*.xml
 3 - Com a classe ProcessoHome com o nome processoHome2 e com jboss-*.xml
-4 - Com a classe ProcessoHome com o nome processoHome2 e sem jboss-*.xml
+4 - Com a classe ProcessoHome com o nome processoHome2 e sem jboss-*.xmlrm -f WEB-INF/jboss-classloading.xml
+rm -f WEB-INF/jboss-web.xml
+rm -f WEB-INF/lib/xml-apis-1.3.02.jar
+rm -f WEB-INF/lib/dom4j-1.6.1.jar
+#rm -f quartz-1.5.2.jar
+rm -f WEB-INF/lib/activation-1.1.jar
+rm -f WEB-INF/lib/stax2-api-3.1.1.jar
+rm -f WEB-INF/lib/stax-api-3.1.1.jar
+rm -f WEB-INF/lib/stax-api-1.0.1.jar
+rm -f WEB-INF/lib/xmlbeans-2.3.0.jar
+rm -f WEB-INF/lib/xmpcore-5.1.2.jar
